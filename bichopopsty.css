@@ -1,0 +1,64 @@
+
+
+.contenedor {
+  height: 100vh; 
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  background-color: #F3E5AB;
+
+  }
+  #colorfondo{
+    background-color: #F3E5AB;
+    padding: 15%;
+  }
+.delius {
+  font-family: "Delius Unicase", cursive;
+  font-weight: 900;
+  font-style: normal;
+}
+h1{
+    font-family: "Delius Unicase", cursive;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  
+}
+p{
+  font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  height: 60px;           
+  display: flex;
+  justify-content: center; 
+  
+}
+.marca {
+  margin-left: 10px;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+.estilotexto{
+    font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+ul{
+    font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0%;
+  
+}
+#caja{
+    padding: 0%;
+    justify-content: center;
+    display: flex;
+    height: auto;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+
